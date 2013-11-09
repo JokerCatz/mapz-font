@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'mapz01';
+	src:url('mapz01.eot');
+	src:url('mapz01.eot?#iefix') format('embedded-opentype'),
+		url('mapz01.ttf') format('truetype'),
+		url('mapz01.woff') format('woff'),
+		url('mapz01.svg#mapz01') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'mapz02';
+	src:url('mapz02.eot');
+	src:url('mapz02.eot?#iefix') format('embedded-opentype'),
+		url('mapz02.ttf') format('truetype'),
+		url('mapz02.woff') format('woff'),
+		url('mapz02.svg#mapz01') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'mapz03';
+	src:url('mapz03.eot');
+	src:url('mapz03.eot?#iefix') format('embedded-opentype'),
+		url('mapz03.ttf') format('truetype'),
+		url('mapz03.woff') format('woff'),
+		url('mapz03.svg#mapz01') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'mapz04';
+	src:url('mapz04.eot');
+	src:url('mapz04.eot?#iefix') format('embedded-opentype'),
+		url('mapz04.ttf') format('truetype'),
+		url('mapz04.woff') format('woff'),
+		url('mapz04.svg#mapz01') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-f1{font-family:'mapz01';}
+.icon-f2{font-family:'mapz02';}
+.icon-f3{font-family:'mapz03';}
+.icon-f4{font-family:'mapz04';}
+
+/*
+  f1 : e600 - e99e
+  f2 : e600 - ea82
+  f3 : e600 - ebf4
+  f4 : e600 - ee50
+*/
